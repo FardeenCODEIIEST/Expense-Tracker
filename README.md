@@ -1,16 +1,17 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+A Flutter app that monitors your varied category expenses.
 
-## Getting Started
+## Video Demo
 
-This project is a starting point for a Flutter application.
+<video controls src="ExpenseTracker.mp4" title="video"></video>
 
-A few resources to get you started if this is your first Flutter project:
+### Techniques learnt
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<ol style="font-weight:bold">
+<li> Theming</li>
+<li> App wide State Management </li>
+<li> Media Query for Responsiveness </li>
+<li> Special Widgets like AlertDialog, CuppertinoDialog, .... </li>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</ol>
